@@ -1,143 +1,74 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
-      <img src="public/images/readme.png" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
-
-  <h3 align="center">Interactive 3D Portfolio Website</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <h1>💼 Vivek Kumar – Software Developer Portfolio</h1>
+  <p>Email: vivekaryan4236@gmail.com | 📞 +91 7061204304</p>
+  <p>
+    <a href="https://github.com/Vivekkumar5829">GitHub</a> |
+    <a href="https://www.linkedin.com/in/vivek-kumar-a8b20633b">LinkedIn</a>
+  </p>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+---
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets & Snippets](#links)
-6. 🚀 [More](#more)
+## 🚀 Skills
 
-## ⚠️ Tutorial
+**Languages:** C/C++, Java, JavaScript, SQL  
+**Frontend:** HTML, CSS, React, Redux, JavaFX, Swing  
+**Backend:** Java, Spring Boot, REST API, Hibernate, JPA, JDBC, Servlet, JSP, Firebase  
+**Database:** MySQL, MongoDB  
+**Tools & DevOps:** Git, Maven, Linux
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+---
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+## 💼 Work Experience
 
-<a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+### 🔹 Tata Group – Data Visualisation Intern (Jan 2025)
 
-## <a name="introduction">🤖 Introduction</a>
+- Designed key analytical dashboards for CEO & CFO using Tableau, Power BI, and Python.
+- Transformed complex data into actionable insights for business growth.
 
-The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design. It’s ideal for developers, designers, or freelancers looking to stand out in the digital crowd.
+### 🔹 Deloitte – Technology Job Simulation (Mar 2025)
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+- Simulated real-world consulting tasks in business tech and digital transformation.
+- Delivered data-driven solutions and improved business efficiency.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+---
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## 💻 Projects
 
-- Three.js
-- React Three Fiber
-- Drei
-- GSAP
-- Tailwind CSS
-- Vite
-- React 19
+### 🔸 Thrifty – Thrift Store for Second-Hand Clothes
 
-## <a name="features">🔋 Features</a>
+A platform to buy/sell second-hand clothes with authentication, cart, and payments.  
+**Tech:** React.js, Spring Boot, Hibernate, MySQL, Stripe
 
-### Features of the 3D Portfolio Project
+### 🔸 LinguaLive – Live English Learning via Video Calls
 
-👉 Animated 3D models and reveal animations
+Connects users with native speakers via video calls for real-time English practice.  
+**Tech:** Java, Spring Boot, WebRTC, React, MySQL
 
-👉 Realistic lighting and shadows
+### 🔸 Car Rentals – Online Car Rental System
 
-👉 GSAP-powered scroll interactions
+Users can book cars in real time with payments and availability tracking.  
+**Tech:** Java, JSP, Servlet, JDBC, Stripe, REST API, HTML/CSS/JS
 
-👉 Responsive design with Tailwind CSS and Flexbox/Grid
+---
 
-👉 Micro Interactions
+## 🎓 Education
 
-👉 Multi-section layout (About, Projects, Contact)
+**B.Tech – Artificial Intelligence & Machine Learning**  
+Technocrats Institute of Technology (Excellence) | 2021–2025  
+CGPA: 7.4/10
 
-👉 Mobile optimized 3D experience
+**High School – DAV Public School** (2020): 90.81%  
+**Secondary School – Rotary Public School** (2018): 82.21%
 
-and many more, including code architecture and reusability.
+---
 
-## <a name="quick-start">🤸 Quick Start</a>
+## 🏅 Certifications & Achievements
 
-Follow these steps to set up the project locally on your machine.
+- Solved 700+ Leetcode questions + 1000 from DSA sheets & platforms.
+- IBM Java Certificate, SkillUp JavaScript, FreeCodeCamp, Udemy Linux.
+- Generated 20K impressions on social media in 30 days by sharing tech insights.
 
-**Prerequisites**
+---
 
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/3d-portfolio.git
-cd 3d-portfolio
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-VITE_APP_EMAILJS_SERVICE_ID=
-VITE_APP_EMAILJS_TEMPLATE_ID=
-VITE_APP_EMAILJS_PUBLIC_KEY=
-```
-
-Replace the placeholder values with your actual **[EmailJS](https://www.emailjs.com/)** credentials.
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
-
-
-## <a name="links">🔗 Assets and Snippets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/pfolio25-kit)**.
-
-<a href="https://jsm.dev/pfolio25-kit" target="_blank">
-  <img src="public/images/readme-video-kit.png" alt="Video Kit Banner">
-</a>
-
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with JSM Pro Courses**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://beta.jsmastery.pro/" target="_blank">
-  <img src="public/images/readme-bottom.png" alt="Project Banner">
-</a>
-# my_portfolio
+_This README is auto-generated from Vivek Kumar's resume and adapted for showcasing on GitHub._
